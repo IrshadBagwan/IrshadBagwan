@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Irshad Bagwan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Dot Net Developer</h3>
 <img align="right" alt="coding" width="400" src="https://tse2.mm.bing.net/th?id=OIP.4fNBO_UDYEVxM0E5T2FyJQHaFj&pid=Api&P=0&h=180" />
 
 - 👨‍💻 All of my projects are available at [http://irshad-portfolio-website.netlify.app](http://irshad-portfolio-website.netlify.app)
